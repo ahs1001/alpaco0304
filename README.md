@@ -1,6 +1,6 @@
 # alpaco0304
 
-# 000 모델을 이용한 이상치 도출
+# OOO 모델을 이용한 이상치 도출
 
 * Github Url: https://github.com/shiny0510/FewShotGAN-Unet3D
 * Requirement: pandas, numy, torch, seaborn, matplotlib
